@@ -1,0 +1,5 @@
+print ("if a rectangle has the dimensions ")
+print("6cm and 3cm ")
+print("")
+print(" Area is {}cm^2".format(6*3))
+print ("perimeter is {}cm." .format(2*(6+3)))
